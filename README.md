@@ -1,17 +1,17 @@
-<h1 align="center">Hey There 👋, I'm Vinay Menon</h1>
+<h1 align="center">Hey There!!  I'm Vinay Menon</h1>
 <h3 align="center">Exploring Innovative Solutions and Projects in Cybersecurity</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vimenon99&label=Profile%20views&color=0e75b6&style=flat" alt="vimenon99" /> </p>
 
-- 🌱 I’m currently learning **Digital Forensics and Web Application Security**
+- I’m currently learning **Digital Forensics and Web Application Security**
 
-- 💬 Ask me about **Network Security, Penetration Testing**
+- Ask me about **Network Security, Penetration Testing**
 
 - 📫 How to reach me **vimenon@syr.edu**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/vinay-menon-1b3055219/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vinay-menon-1b3055219/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/vinay-menon-1b3055219/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vinay-menon-1b3055219/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
