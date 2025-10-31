@@ -32,10 +32,6 @@ Hi there! I'm **Vinay Menon**, a passionate cybersecurity professional and softw
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vimenon99&theme=radical&hide_border=false)<br/>
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vimenon99&theme=radical&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=vimenon99&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
-
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=vimenon99&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
