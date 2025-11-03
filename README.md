@@ -1,24 +1,18 @@
 # 💫 About Me
 
-Hi there! I'm **Vinay Menon**, a passionate cybersecurity professional and software developer with a focus on innovative solutions and security practices. I have experience in developing secure applications, conducting penetration tests, and utilizing various cybersecurity tools. I’m always looking to advance my skills and contribute to meaningful projects.
+Hi there! I'm **Vinay Menon**, my passion explores with a focus on Software and Systems security. I have experience in developing secure applications, conducting penetration tests, and utilizing various cybersecurity tools for detection and analysis. I’m always looking to advance my skills and contribute to meaningful projects.
 
 ## 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vinay-menon-1b3055219/) 
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@vinaymenon099) 
 
 ## 💻 Tech Stack
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) 
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=csharp&logoColor=white) 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) 
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=flat&logo=gnu-bash&logoColor=white) 
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white) 
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat&logo=flask&logoColor=white) 
-![.NET](https://img.shields.io/badge/.NET-5C2D91?style=flat&logo=.net&logoColor=white) 
 ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=flat&logo=jenkins&logoColor=white) 
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=flat&logo=nginx&logoColor=white) 
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) 
